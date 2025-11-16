@@ -41,7 +41,7 @@ pip install requests
 | :--- | :--- | :--- |
 | `TARGET_URL` | ターゲットデバッグコンソールのURL | `'http://192.168.126.130:3000/console'` |
 | `VMRUN_PATH` | `vmrun.exe`へのフルパス | `"C:\\Program Files (x86)\\VMware\\VMware Workstation\\vmrun.exe"` |
-| `VMX_PATH` | ターゲットVMの`.vmx`ファイルへのフルパス | `"C:\\Users\\user\\Documents\\Virtual Machines\\MBSDCC2025\\MBSDCC2025.vmx"` |
+| `VMX_PATH` | ターゲットVMの`.vmx`ファイルへのフルパス | `"C:\\Users\\user\\Documents\\Virtual Machines\\example\\example.vmx"` |
 | `current_pin_num` | **試行を開始する最初のPIN番号** | `1` または中断した番号 (`100000000`など) |
 | `MAX_PIN` | 試行を終了する最大のPIN番号 | `999999999` |
 
